@@ -30,7 +30,7 @@ This project provides the following features:
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fleocruzms%2FAKS-CTFd%2Fmain%2Fazuredeploy.json)
 
 ```bash
-git clone https://github.com/AKS-CTFd/ctfd-azure-paas.git
+git clone https://github.com/leocruzms/AKS-CTFd.git
 cd ctfd-azure-paas
 
 # This is bash syntax. if using Powershell, add $ sign before the assignments (i.e. $DB_PASSWORD='YOUR PASSWORD')
