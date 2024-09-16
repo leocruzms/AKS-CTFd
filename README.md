@@ -27,10 +27,10 @@ This project provides the following features:
 
 ### Quickstart
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure-Samples%2Fctfd-azure-paas%2Fmain%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fleocruzms%2FAKS-CTFd%2Fmain%2Fazuredeploy.json)
 
 ```bash
-git clone https://github.com/Azure-Samples/ctfd-azure-paas.git
+git clone https://github.com/AKS-CTFd/ctfd-azure-paas.git
 cd ctfd-azure-paas
 
 # This is bash syntax. if using Powershell, add $ sign before the assignments (i.e. $DB_PASSWORD='YOUR PASSWORD')
