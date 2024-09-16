@@ -20,7 +20,7 @@ var containerRegistryName = 'ctfdacr${uniqueString(resourceGroup().id)}'
 var ctfdImageName = 'ctfd-azure-cert:latest'
 
 @description('Name of the github repository where Dockerfile is located')
-var ctfdAzureRepo = 'https://github.com/AKS-CTFd/ctfd-azure-paas.git'
+var ctfdAzureRepo = 'https://github.com/leocruzms/AKS-CTFd.git'
 
 resource acrResource 'Microsoft.ContainerRegistry/registries@2021-06-01-preview' = {
   name: containerRegistryName
