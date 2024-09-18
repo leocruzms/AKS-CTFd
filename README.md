@@ -1,4 +1,4 @@
-# COPY-DRAFT CTFd on Azure PaaS
+# DRAFT - CTFd (3.7.3) on Azure PaaS
 
 This project sets up a self-hosted, secured [CTFd][ctfd] environment, using Azure PaaS, that is easy to maintain.
 It supports the *Capture-the-Flag with CTFd on Azure PaaS* content on the [Azure Architecture Center](link.com TODO:).
