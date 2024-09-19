@@ -1,4 +1,4 @@
-CTFd on Azure Pass for AKS CTF
+## CTFd on Azure Pass for AKS CTF
 
 This project sets up a self-hosted, secured [CTFd][ctfd] environment, using Azure PaaS. It is meant to be used at a CTF event using AKS CTF challenges:https://github.com/lastcoolnameleft/aks-ctf.
 
