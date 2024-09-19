@@ -22,6 +22,7 @@ This project provides the following features:
 * Adjustable level of network isolation: The solution can be provisioned either with or without virtual network. Private networking is provided using [Private Endpoints][private-endpoint] and [App Service VNet Integration][vnet-integration].
 * Custom CTFd container image built and hosted on [Azure Container Registry][container-registry] with certificates to allow TLS connectivity to [Azure Database for MySQL][mysql].
   * The image is based off the community CTFd image layered with the certificate required to communicate with Azure [Database for MySQL over TLS](https://learn.microsoft.com/en-us/azure/mysql/single-server/how-to-configure-ssl).
+* CTFd backup with the challenges describe at [AKS Capture the Flag](https://github.com/lastcoolnameleft/aks-ctf).
 
 ## Getting Started
 
