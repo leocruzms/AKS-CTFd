@@ -1,7 +1,8 @@
-# DRAFT - CTFd (3.7.3) on Azure PaaS
+CTFd on Azure Pass for AKS CTF
 
-This project sets up a self-hosted, secured [CTFd][ctfd] environment, using Azure PaaS, that is easy to maintain.
-It supports the *Capture-the-Flag with CTFd on Azure PaaS* content on the [Azure Architecture Center](link.com TODO:).
+This project sets up a self-hosted, secured [CTFd][ctfd] environment, using Azure PaaS meant to be used at a CTF event using AKS CTF challenges:https://github.com/lastcoolnameleft/aks-ctf.
+
+It is based on the CTFd on Azure PaaS project. https://github.com/Azure-Samples/ctfd-azure-paas with the CTFd version 3.7.3
 
 ## Features
 
