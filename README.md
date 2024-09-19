@@ -2,7 +2,7 @@
 
 This project sets up a self-hosted, secured [CTFd][ctfd] environment, using Azure PaaS. It is meant to be used at a CTF event using AKS Capture the Flag challenges:https://github.com/lastcoolnameleft/aks-ctf.
 
-The repo is based on the CTFd on Azure PaaS project. https://github.com/Azure-Samples/ctfd-azure-paas with the CTFd version 3.7.3
+The repo is based on the CTFd on Azure PaaS project: https://github.com/Azure-Samples/ctfd-azure-paas with the CTFd version 3.7.3
 
 ## Features
 
